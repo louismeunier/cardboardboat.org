@@ -1,30 +1,37 @@
-<script lang="ts">
-	export let name: string;
+<script>
+	import { fade } from "svelte/transition";
 </script>
-
-<main>
-	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
-</main>
 
 <style>
 	main {
+		display: grid;
+		place-items: center;
+		height: 100%;
+	}
+	div {
+		display: grid;
+		grid-auto-flow: row;
+		gap: 2em;
 		text-align: center;
-		padding: 1em;
-		max-width: 240px;
-		margin: 0 auto;
 	}
 
 	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
+		font-size: 8em;
+		color: black;
+		font-family: 'Chelsea Market', cursive;
+		font-weight: 900;
 	}
 
-	@media (min-width: 640px) {
-		main {
-			max-width: none;
-		}
+	h2 {
+		font-style: italic;
+		font-family: 'Balsamiq Sans', cursive;
+		color: rgba(3,3,3,0.6);
 	}
 </style>
+
+<main>
+	<div>
+		<h1>The Boat</h1>
+		<h2>coming soon</h2>
+	</div>
+</main>
