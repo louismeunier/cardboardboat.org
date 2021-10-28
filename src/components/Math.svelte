@@ -27,4 +27,5 @@
             />
         </div>
     </div>
+    <img src="images/math.png" alt="math"/>
 </Section>

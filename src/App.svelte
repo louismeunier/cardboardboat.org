@@ -1,8 +1,9 @@
 <script>
 	import { fade } from "svelte/transition";
 	import Boat from "./components/Boat.svelte";
-import Idea from "./components/Idea.svelte";
-import Math from "./components/Math.svelte";
+	import Idea from "./components/Idea.svelte";
+	import Math from "./components/Math.svelte";
+import Photos from "./components/Photos.svelte";
 </script>
 
 <style>
@@ -50,4 +51,5 @@ import Math from "./components/Math.svelte";
 	</div>
 	<Idea/>
 	<Math/>
+	<Photos/>
 </main>

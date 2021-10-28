@@ -816,6 +816,11 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
+svelte-carousel@^1.0.16:
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/svelte-carousel/-/svelte-carousel-1.0.16.tgz#d61ac8add35d48ecd58dc51b755de67c1236f7f6"
+  integrity sha512-o8g9fFfYVYgMvgYbvpHPIIZXKn9wMYT/PA9TrRx3ox3aNlhsSrJ3zxU0kQIRSERqw7YCA5v4Gd2PQ5KW4u9WTQ==
+
 svelte-check@^2.0.0:
   version "2.2.7"
   resolved "https://registry.yarnpkg.com/svelte-check/-/svelte-check-2.2.7.tgz#e3eb73fe2b77888977dfb309212d10779481a0b1"
