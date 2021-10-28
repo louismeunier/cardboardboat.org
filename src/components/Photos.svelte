@@ -53,5 +53,8 @@ import Carousel from "svelte-carousel";
         <div>
         <img src="/images/maazinsert.jpeg" alt="dabox"/>
         </div>
+        <div>
+        <img src="/images/boatinwater.jpeg" alt="dabox"/>
+        </div>
     </div>
 </Section>
