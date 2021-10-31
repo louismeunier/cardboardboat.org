@@ -54,6 +54,21 @@ import Carousel from "svelte-carousel";
         <img src="/images/maazinsert.jpeg" alt="dabox"/>
         </div>
         <div>
+        <img src="/images/jimmy.jpeg" alt="dabox"/>
+        </div>
+        <div>
+        <img src="/images/jimmy2.jpeg" alt="dabox"/>
+        </div>
+        <div>
+        <img src="/images/yum.jpeg" alt="dabox"/>
+        </div>
+        <div>
+        <img src="/images/measure.jpeg" alt="dabox"/>
+        </div>
+        <div>
+        <img src="/images/everyone.jpeg" alt="dabox"/>
+        </div>
+        <div>
         <img src="/images/boatinwater.jpeg" alt="dabox"/>
         </div>
     </div>
